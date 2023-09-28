@@ -16,7 +16,7 @@ git clone https://github.com/costope/linux-updater.git
 
 Change directory:
 ```bash
-cd updater
+cd linux-updater/Updater
 ```
 
 Run the script:
